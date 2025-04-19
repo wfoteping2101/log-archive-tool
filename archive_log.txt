@@ -1,0 +1,3 @@
+Archived /home/wfoteping/test-logs to ./archives/logs_archive_20250419_154413.tar.gz at Sat Apr 19 15:44:13 EDT 2025
+Archived /var/log to ./archives/logs_archive_20250419_154813.tar.gz at Sat Apr 19 15:48:14 EDT 2025
+Archived /var/log to ./archives/logs_archive_20250419_155108.tar.gz at Sat Apr 19 15:51:09 EDT 2025
